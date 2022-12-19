@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "W25Q128JVSIM")(type "KiCad")(uri "D:/Documents/Projects/pcb/lib/CSE/W25Q128JVSIM_TR/W25Q128JVSIM_TR.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74CBT16233DGGR")(type "KiCad")(uri "D:/Documents/Projects/pcb/lib/CSE/SN74CBT16233DGGR/SN74CBT16233DGGR.kicad_sym")(options "")(descr ""))
+  (lib (name "TXB0108PWR")(type "KiCad")(uri "D:/Documents/Projects/pcb/lib/CSE/TXB0108PWR/TXB0108PWR.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74CBT16245CDL")(type "KiCad")(uri "D:/Documents/Projects/pcb/lib/UltraLibrarian/SN74CBT16245CDL/SN74CBT16245CDL.kicad_sym")(options "")(descr ""))
+)
